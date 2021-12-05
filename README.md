@@ -21,7 +21,7 @@
 
 调整灰度窗，灰度直方图能够动态更新：
 
-<img alt="wl_hist.png" src="assets/wl_hist.png" width="280" height="315"/>
+<img alt="wl_hist.png" src="assets/wl_hist.gif" width="280" height="315"/>
 
 设置细节增强参数 ( 同态滤波 ) ( 非最终结果 )：
 
