@@ -17,11 +17,11 @@
 
 主菜单：
 
-![menu_bar.png](assets/menu_bar.png)
+<img alt="menu_bar.png" src="assets/menu_bar.png" width="350" height="80"/>
 
 调整灰度窗，灰度直方图能够动态更新：
 
-![wl_hist.png](assets/wl_hist.png)
+<img alt="wl_hist.png" src="assets/wl_hist.png" width="280" height="315"/>
 
 设置细节增强参数 ( 同态滤波 ) ( 非最终结果 )：
 
